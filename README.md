@@ -1,7 +1,11 @@
 纯净的对Aion2延迟抓取，面向Windows7，10，11。基于C#-.Net。没有DPS统计，但有详尽的延迟折线图以及数据统计，网络延迟远比水表软件更加精细。
+
 启动后不展开折线图时：
+
 <img width="181" height="140" alt="image" src="https://github.com/user-attachments/assets/ba46bd1f-49e4-4b47-8833-81c955fb0e43" />
+
 (单击图标展开！）
+
 <img width="708" height="708" alt="image" src="https://github.com/user-attachments/assets/38e6b5fa-0760-4242-9f09-7772da62a8e3" />
 
 Pure latency capture for Aion2, targeting Windows 7, 10, 11. Based on C#-.Net. No DPS statistics, but with detailed latency line charts and data statistics, network latency is far more precise than meter software.
