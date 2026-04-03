@@ -17,6 +17,7 @@ Pure latency capture for Aion2, targeting Windows 7, 10, 11. Based on C#-.Net. N
 <img width="69" height="59" alt="image" src="https://github.com/user-attachments/assets/aa5c03b2-82ba-4200-90b5-f8c7a291ee78" />
 
 50M小包体，点击即用！
-Clean@Pure JUST ENJOY YOUR GAME!
+Clean&&Pure ———————— JUST ENJOY YOUR GAME!
 <img width="82" height="74" alt="image" src="https://github.com/user-attachments/assets/4498d1ee-c270-491d-ae56-2b857ef9f8b3" />
 
+开发者&各位朋友均可加入qq:976950177交流。
